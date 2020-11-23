@@ -4,7 +4,7 @@ metadata:
   name: blincra
   description: test
   annotations:
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: website
   lifecycle: experimental
