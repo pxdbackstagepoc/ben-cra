@@ -4,8 +4,8 @@ metadata:
   name: bencra
   description: test
   annotations:
-    github.com/project-slug: "pxdbackstagepoc/ben-cra"
-    backstage.io/techdocs-ref: "github:https://github.com/pxdbackstagepoc/ben-cra"
+    github.com/project-slug: pxdbackstagepoc/ben-cra
+    backstage.io/techdocs-ref: github:https://github.com/pxdbackstagepoc/ben-cra
 spec:
   type: website
   lifecycle: experimental
