@@ -3,7 +3,12 @@ kind: Component
 metadata:
   name: blincra
   description: test
+  annotations:
+    backstage.io/techdocs-ref: value
 spec:
   type: website
   lifecycle: experimental
   owner: benlin1994
+
+
+
